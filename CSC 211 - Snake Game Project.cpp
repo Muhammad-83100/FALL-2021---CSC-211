@@ -65,8 +65,6 @@ int main()
 			Sleep(15);
 		}
 	}
-	
-	system("pause");
 	return 0;
 }
 
